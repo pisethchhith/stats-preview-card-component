@@ -9,6 +9,7 @@ This is my solution to the [Stats preview card component challenge on Frontend M
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [AI Collaboration](#ai-collaboration)
 
 ## Overview
 
@@ -21,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/pisethchhith/stats-preview-card-component
+- Live Site URL: https://pisethchhith.github.io/stats-preview-card-component/
 
 ## My process
 
@@ -32,7 +33,8 @@ Users should be able to:
 - Non-sematic HTML markup 
 - CSS custom properties
 - Flexbox
+- CSS Media Query (for responsive)
 
 
 ### AI Collaboration
-- In this project
+- In this project, I use ChatGPT and Gemini for explaining the responsive web concept. And it turned out I can learn from these LLMs, but not allow to generate the answer.   
