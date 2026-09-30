@@ -17,7 +17,7 @@ This is my solution to the [Stats preview card component challenge on Frontend M
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
+[x] View the optimal layout depending on their device's screen size
 
 
 ### Links
